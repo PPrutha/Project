@@ -1,36 +1,35 @@
-# Gender Differences in Emotional Processing: A Data Analysis Study
+## Gender Differences in Emotional Processing: A Data Analysis Study
 
-## Project Overview
+Project Overview
 This project investigates potential differences in emotional responses between genders using quantitative data analysis methods. The study was completed as part of an undergraduate psychology class and focused on identifying patterns in emotional processing across participant groups.
 
-## Research Question
+### Research Question
 Are there measurable differences in psychological characteristics scores of love/attachment between genders?
 
-## Dataset
+### Dataset
 The dataset used in our analysis was a subset of MIDUS 3. MIDUS is a national survey collecting data of Americans aged between 25 and 75 years. In this national survey, respondents were asked to provide detailed information on their physical and mental health. MIDUS 3 is a third wave of survey data collected in the year 2013
 
-## Objectives
-* Compare emotional measures between gender groups.
+### Objectives:
 * Identify statistically significant differences in emotional processing.
 * Interpret findings within the context of psychological and cognitive science research.
 
-## Methods
+### Methods
 
-### Exploratory Data Analysis
+Exploratory Data Analysis:
 * Summary statistics
 * Distribution analysis
 
-### Statistical Analysis
+Statistical Analysis:
 * Group comparisons
 * Hypothesis testing (Independent Samples t-test)
 
-## Tools Used
+### Tools Used
 * R
 * Statistical analysis techniques
 * Data visualization methods
 
-## Key Findings
-The analysis explored whether emotional responses differed across gender groups and evaluated the magnitude and significance of observed differences. Results were interpreted within the broader context of emotional processing research.
+### Key Findings
+The analysis examined whether emotional responses differed by gender and evaluated the magnitude and significance of any observed differences. The results were interpreted in the broader context of emotional processing research.
 
 ## Author
 Prutha Patel
