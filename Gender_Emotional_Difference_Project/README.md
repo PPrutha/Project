@@ -34,5 +34,6 @@ The analysis explored whether emotional responses differed across gender groups 
 
 ## Author
 Prutha Patel
+
 Cognitive Science | Research Methods
 
