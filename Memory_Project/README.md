@@ -18,17 +18,6 @@ The dataset consists of approximately 220 individuals between 18 and 55 years of
 * Frequency of reading for fun
 * Frequency of musical instrument practice
 
-Each predictor was measured on a 6-point scale:
-
-| Value | Frequency                |
-| ----- | ------------------------ |
-| 1     | Never or almost never    |
-| 2     | Once or twice a month    |
-| 3     | Less than once a week    |
-| 4     | Once or twice a week     |
-| 5     | Several times a week     |  
-| 6     | Every day                |
-
 ### Response Variable
 
 * Average number of correctly recalled words on a memory task processes of shallow memory and deep memory test
@@ -49,24 +38,20 @@ Each predictor was measured on a 6-point scale:
 * Random Forest
 
 Models were evaluated using:
-
 * Root Mean Squared Error (RMSE)
 * Coefficient of Determination (R²)
 
 ## Key Takeaways
-
 * Childhood cognitive activities alone were weak predictors of memory recall performance. These findings indicate that memory performance is likely influenced by additional factors not included in the current models.
 * The project highlights the importance of model evaluation and demonstrates that meaningful results can include identifying when predictors have limited explanatory value.
 
 ## Tools Used
-
 * MATLAB
 * Statistics and Machine Learning Toolbox
 * Live Scripts
 * Data Visualization
 
 ## Author
-
 Prutha Patel
 Cognitive Science | Data Analysis
 
