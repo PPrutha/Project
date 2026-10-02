@@ -46,12 +46,12 @@ Models were evaluated using:
 * The project highlights the importance of model evaluation and demonstrates that meaningful results can include identifying when predictors have limited explanatory value.
 
 ## Tools Used
-* MATLAB
+* MATLAB Live Scripts
 * Statistics and Machine Learning Toolbox
-* Live Scripts
 * Data Visualization
 
 ## Author
 Prutha Patel
+
 Cognitive Science | Data Analysis
 
