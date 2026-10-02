@@ -1,6 +1,6 @@
-# Predicting Memory Recall Performance from Childhood Cognitive Activities
+Predicting Memory Recall Performance from Childhood Cognitive Activities
 
-## Project Overview
+Project Overview
 
 This project extends my undergraduate cognitive psychology study investigating the relationship between childhood cognitive activities and adult memory performance. The original study examined whether childhood experience of playing puzzel was associated with memory recall ability. This project revisits the dataset and applies exploratory data analysis, statistical modeling, and predictive models to evaluate whether childhood experiences can predict memory performance.
 
